@@ -8,4 +8,6 @@ public class Lecture1
 	String name = "Dmytro";
 	String country = "UA";
 	int age = 30;
+
+	String date = "20.12.2020";
 }
