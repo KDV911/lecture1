@@ -4,4 +4,8 @@ public class Lecture1
 	{
 		System.out.println("GIT");
 	}
+
+	String name = "Dmytro";
+	String country = "UA";
+	int age = 30;
 }
