@@ -10,4 +10,7 @@ public class Lecture1
 	int age = 30;
 
 	String b;
+
+	String c;
+	String d;
 }
